@@ -1,4 +1,4 @@
-# Exercise-1
+# Exercise
 勉強したことの忘備録用のリポジトリ。
 
 ## k-means
